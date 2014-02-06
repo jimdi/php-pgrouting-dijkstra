@@ -2,7 +2,7 @@
 
    // Database connection settings
    define("PG_DB"  , "routing");
-   define("PG_HOST", "10.145.13.194"); 
+   define("PG_HOST", "127.0.0.1"); 
    define("PG_USER", "postgres");
    define("PG_PORT", "5432"); 
    define("TABLE",   "ways");
